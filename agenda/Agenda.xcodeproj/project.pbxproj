@@ -22,6 +22,9 @@
 		AB8511A5259A158F00F72785 /* AlunoAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8511A4259A158F00F72785 /* AlunoAPI.swift */; };
 		AB8511AC259A242B00F72785 /* Repositorio.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8511AB259A242B00F72785 /* Repositorio.swift */; };
 		AB8511AF259A257300F72785 /* AlunoDAO.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8511AE259A257300F72785 /* AlunoDAO.swift */; };
+		AB8511B4259BBF0A00F72785 /* LigacaoTelefonica.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8511B3259BBF0A00F72785 /* LigacaoTelefonica.swift */; };
+		AB8511B7259BC20A00F72785 /* Safari.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8511B6259BC20A00F72785 /* Safari.swift */; };
+		AB8511BA259BC45200F72785 /* Filtro.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8511B9259BC45200F72785 /* Filtro.swift */; };
 		B911302A1FE05358002768A7 /* CalculaMediaAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = B91130291FE05358002768A7 /* CalculaMediaAPI.swift */; };
 		B939B9B81FDAC2630084A557 /* Mensagem.swift in Sources */ = {isa = PBXBuildFile; fileRef = B939B9B71FDAC2630084A557 /* Mensagem.swift */; };
 		B9518EFC1FD9BCEB00EBAFA5 /* MenuOpcoesAlunos.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9518EFB1FD9BCEB00EBAFA5 /* MenuOpcoesAlunos.swift */; };
@@ -52,6 +55,9 @@
 		AB8511A4259A158F00F72785 /* AlunoAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlunoAPI.swift; sourceTree = "<group>"; };
 		AB8511AB259A242B00F72785 /* Repositorio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repositorio.swift; sourceTree = "<group>"; };
 		AB8511AE259A257300F72785 /* AlunoDAO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlunoDAO.swift; sourceTree = "<group>"; };
+		AB8511B3259BBF0A00F72785 /* LigacaoTelefonica.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LigacaoTelefonica.swift; sourceTree = "<group>"; };
+		AB8511B6259BC20A00F72785 /* Safari.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Safari.swift; sourceTree = "<group>"; };
+		AB8511B9259BC45200F72785 /* Filtro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Filtro.swift; sourceTree = "<group>"; };
 		B91130291FE05358002768A7 /* CalculaMediaAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculaMediaAPI.swift; sourceTree = "<group>"; };
 		B939B9B71FDAC2630084A557 /* Mensagem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mensagem.swift; sourceTree = "<group>"; };
 		B9518EFB1FD9BCEB00EBAFA5 /* MenuOpcoesAlunos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuOpcoesAlunos.swift; sourceTree = "<group>"; };
@@ -185,6 +191,9 @@
 				B9EA19FA1FDEBEAD00403CE0 /* Localizacao.swift */,
 				B9D565A61FE14ECA00BDA536 /* Notificacoes.swift */,
 				658B1AA72006456B006D944C /* AutenticacaoLocal.swift */,
+				AB8511B3259BBF0A00F72785 /* LigacaoTelefonica.swift */,
+				AB8511B6259BC20A00F72785 /* Safari.swift */,
+				AB8511B9259BC45200F72785 /* Filtro.swift */,
 			);
 			path = Componentes;
 			sourceTree = "<group>";
@@ -349,15 +358,18 @@
 				03AA176D1FC8515A003CB2B8 /* AlunoViewController.swift in Sources */,
 				AB8511A5259A158F00F72785 /* AlunoAPI.swift in Sources */,
 				65F277D92006901C00A8F1BF /* Pino.swift in Sources */,
+				AB8511BA259BC45200F72785 /* Filtro.swift in Sources */,
 				AB8511AF259A257300F72785 /* AlunoDAO.swift in Sources */,
 				03AA17661FC84353003CB2B8 /* HomeTableViewController.swift in Sources */,
 				03AA17561FC84154003CB2B8 /* Agenda.xcdatamodeld in Sources */,
 				A281001A1FD5C2F700E1BDF1 /* ImagePicker.swift in Sources */,
 				B911302A1FE05358002768A7 /* CalculaMediaAPI.swift in Sources */,
 				03AA17681FC843B1003CB2B8 /* HomeTableViewCell.swift in Sources */,
+				AB8511B7259BC20A00F72785 /* Safari.swift in Sources */,
 				B9518EFC1FD9BCEB00EBAFA5 /* MenuOpcoesAlunos.swift in Sources */,
 				B939B9B81FDAC2630084A557 /* Mensagem.swift in Sources */,
 				B9D565A71FE14ECA00BDA536 /* Notificacoes.swift in Sources */,
+				AB8511B4259BBF0A00F72785 /* LigacaoTelefonica.swift in Sources */,
 				AB8511AC259A242B00F72785 /* Repositorio.swift in Sources */,
 				B9FFD4511FDEE6F700CEE593 /* MapaViewController.swift in Sources */,
 				03AA174E1FC84154003CB2B8 /* AppDelegate.swift in Sources */,
